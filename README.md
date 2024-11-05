@@ -1,4 +1,7 @@
 # PhotoEditor
+## lijian 
+1. gradle8 分支 需配合as2024  java17  运行 成功
+2. mine 分支： 
 
 ![Github Action](https://github.com/burhanrashid52/PhotoEditor/actions/workflows/app_build_and_test.yml/badge.svg)
 [![Downloads](https://img.shields.io/badge/Download-3.0.2-blue.svg)](https://search.maven.org/artifact/com.burhanrashid52/photoeditor/3.0.2/aar) ![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg) [![JavaDoc](https://img.shields.io/badge/JavaDoc-PhotoEditor-blue.svg)](https://burhanrashid52.github.io/PhotoEditor/) [![Uplabs](https://img.shields.io/badge/Uplabs-PhotoEditor-orange.svg)](https://www.uplabs.com/posts/photoeditor)
