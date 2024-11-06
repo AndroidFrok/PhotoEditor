@@ -48,7 +48,7 @@ dependencies {
     // NOTE(lucianocheng): Using the local photoeditor implementation instead of the published
     //                     maven package to facilitate testing, and for the integration tests
     //                     to work on locally modified code.
-    //implementation 'com.burhanrashid52:photoeditor:3.0.2'
+    //请使用 from_resp 分支 implementation 'com.burhanrashid52:photoeditor:3.0.2'
     implementation project(':photoeditor')
 
     implementation 'androidx.appcompat:appcompat:1.5.0'
