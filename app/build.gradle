@@ -49,7 +49,7 @@ dependencies {
     //                     maven package to facilitate testing, and for the integration tests
     //                     to work on locally modified code.
     implementation 'com.burhanrashid52:photoeditor:3.0.2'
-//    implementation project(':photoeditor')
+//   请勿在本分支开启  implementation project(':photoeditor')
 
     implementation 'androidx.appcompat:appcompat:1.5.0'
     implementation 'androidx.cardview:cardview:1.0.0'
